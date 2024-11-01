@@ -1,0 +1,93 @@
+body{
+    margin: auto 2% auto 2%;
+}
+
+
+
+.welcome h1{
+    position: relative;
+    text-align: center;
+   color: rgb(0, 0, 0);
+    font-size: 70%;
+}
+
+span{
+    color: rgb(60, 255, 0);
+    font-size: 120%;
+}
+
+nav {
+    background-color: rgb(60, 255, 0);
+    padding: 2px;
+    position: sticky;
+    top: 40px;
+    z-index: 9;
+}
+
+nav ul{
+    white-space: nowrap;
+    max-width: 1200px;
+   
+}
+nav li{
+    width: 20%;
+    text-align: center;
+    display: inline-block;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+nav li a{
+    text-decoration: none;
+    color: white;
+}
+
+.radio img{
+    position: relative;
+    width: 60%;
+}
+
+.h6 h6{
+    margin-left: 60%;
+    position: absolute;
+    bottom: 66%;
+}
+
+.finance-image img{
+    position: absolute;
+    width: 60%;
+    left: 37%;
+}
+
+.h7 h6{
+    margin-right: 60%;
+    position: absolute;
+    bottom: 35%;
+}
+
+.shoes img{
+    position: relative;
+    width: 20%;
+    height: 20%;
+    left: 12%;
+    border-radius: 25%;
+}
+
+button{
+    color: #ff002d;
+    position: relative;
+    width: 50%;
+    left: 25%;
+    text-decoration: none;
+}
+
+.Copyright {
+    position: absolute;
+    text-align: center;
+    background-color: rgb(60, 255, 0);
+    color: white;
+}
+
+.signup-button button{
+    text-decoration: none;
+}
